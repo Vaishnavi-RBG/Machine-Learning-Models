@@ -12,15 +12,24 @@ To use the implemented models, you can import the relevant Python files into you
 # Models Implemented
 The following machine learning models have been implemented from scratch in this project:
 
-Linear Regression
-Logistic Regression
-K-Nearest Neighbors (KNN) Regression
-K-Nearest Neighbors (KNN) Classification
-Decision Trees Regression
-Decision Trees Classification
-Random Forests Regression
-Random Forests Classification
-XG Booster Regression
-XG Booster Classification
+1.Linear Regression
+
+2.Logistic Regression
+
+3.K-Nearest Neighbors (KNN) Regression
+
+4.K-Nearest Neighbors (KNN) Classification
+
+5.Decision Trees Regression
+
+6.Decision Trees Classification
+
+7.Random Forests Regression
+
+8.Random Forests Classification
+
+9.XG Booster Regression
+
+10.XG Booster Classification
 
 Each model is implemented using basic Python and NumPy operations without relying on external libraries.
